@@ -1,0 +1,23 @@
+{
+  "name": "raidbot",
+  "version": "0.0.1",
+  "description": "A telegram bot to give you notifications about ongoing raids in Pokemon Go around your location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pogo",
+    "telegram",
+    "raids",
+    "pokemon",
+    "go"
+  ],
+  "author": "Nicholas D'hondt",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.0.7",
+    "node-telegram-bot-api": "^0.28.0",
+    "pogobuf-vnext": "^2.5.1"
+  }
+}
