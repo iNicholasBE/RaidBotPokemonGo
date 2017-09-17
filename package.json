@@ -16,7 +16,6 @@
   "author": "Nicholas D'hondt",
   "license": "ISC",
   "dependencies": {
-    "collections": "^5.0.7",
     "node-telegram-bot-api": "^0.28.0",
     "pogobuf-vnext": "^2.5.1"
   }
