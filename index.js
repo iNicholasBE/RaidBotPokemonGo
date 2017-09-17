@@ -1,7 +1,6 @@
 var TelegramBot = require('node-telegram-bot-api');
 const pogobuf = require('pogobuf-vnext');
 const POGOProtos = require('node-pogo-protos-vnext');
-const nodeGeocoder = require('node-geocoder');
 const RequestType = POGOProtos.Networking.Requests.RequestType;
 const _ = require('lodash');
 var utils = require('./utils');
